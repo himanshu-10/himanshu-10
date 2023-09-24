@@ -28,6 +28,11 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=himanshu-10&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/himanshu-10/count.svg" />
+</p>
+<!-- [![](https://visitcount.itsvg.in/api?id=himanshu-10&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
